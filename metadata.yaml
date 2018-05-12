@@ -1,0 +1,27 @@
+_repo: The-Seven-Branched-CandlestickThe-Schooldays-of-Young-American-Jew_33793
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gabriel, Gilbert W. (Gilbert Wolf)
+    alias: Gilly Bear
+    birthdate: 1890
+    deathdate: 1952
+    gutenberg_agent_id: '36608'
+    url: http://www.gutenberg.org/2009/agents/36608
+description: ''
+gutenberg_issued: '2010-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Jews -- United States'
+title: 'The Seven-Branched Candlestick: The Schooldays of Young American Jew'
+url: http://www.gutenberg.org/ebooks/33793
